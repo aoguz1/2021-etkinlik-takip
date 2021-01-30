@@ -5,7 +5,7 @@
 
 
 
-<img width=350 src="https://github.com/aoguz1/2021-etkinlik-takip/blob/master/github/all.gif.mp4?raw=true">
+<img width=350 src="https://raw.githubusercontent.com/aoguz1/2021-etkinlik-takip/master/github/mappindo.gif">
 
 ## İçerik
 Katılımcıların fiziksel etkinliklerde ilgi alanlarına göre çevrede gerçekleşen etkinliklerden anında haberdar olması ve aynı zamanda sosyalleşebilmesini sağlamak.
