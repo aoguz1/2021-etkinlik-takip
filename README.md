@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 2021-etkinlik-takip
-=======
-
 # Mappindo
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 ![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square) 
@@ -52,4 +48,3 @@ Fiziksel etkinlik düzenleyen kurum ve kişilerin işlerini kolaylaştırmak iç
   </tr> 
 </table>
 
->>>>>>> initial commit
